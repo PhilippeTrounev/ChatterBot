@@ -110,3 +110,29 @@ See release notes for changes https://github.com/gunthercox/ChatterBot/releases
 
 ChatterBot is licensed under the [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause).
 
+
+# Article
+######  test
+To access **Docsie.io and its services** you must register a Docsie.io account by providing your **username and password**. If you *want to use paid features you must* provide **your full legal name**, current address, [phone number, a valid email address](https://docise.io), and any other `information indicated as required`. For more questions please contact admin@likalo.com.
+![login](https://images-na.ssl-images-amazon.com/images/G/01/lwa/btnLWA_gold_390x92.png "login")<br>[![](https://img.youtube.com/vi/XK2IRmlN7T8/0.jpg)](https://www.youtube.com/watch?v=XK2IRmlN7T8))<br>* test 1
+* test 2
+* **test** 3
+* *test* 4
+* [link](https://docise.io)
+* **gdgdfg** *fsdfs* `fsdf  * da dasd ad `*
+* 
+```
+`d*ef python:`*
+```
+```
+`p*rint(1)`*
+```
+## We reserve the right to monitor any content on all accounts registered on our Sites, and your use of these Sites means you agree to this monitoring activity. This does indicate that any monitoring will take place on scheduled intervals or on any basis at all.
+## heading 2
+By registering or using our Sites you certify that you are at least 18 years old or at least the age of majority in the jurisdiction where you reside or from which you use this Site.
+You acknowledge that Hanba.io will use the email address you provide as the primary method for communication.
+You will provide truthful and accurate information about yourself upon registration; if your information changes at any time it is your responsibility to update your account to reflect these changes.
+If you are assigned your account by an administrator, additional terms may apply to your use of the Sites, the administrator may revoke your access to the administered content at any time without further notice.
+You are responsible for all activity and content such as photos, images, videos, graphics, written content, audio files, code, information, or data uploaded, collected, generated, stored, displayed, distributed, transmitted or exhibited on or in connection with your Account (“Materials”).
+Do not share your account details for the Sites such as username and password with anyone, we are not liable for accounts compromised for any reason at all including malicious activity such as hacking, phishing, etc... If you believe your account has been compromised, please contact the administrator or info@likalo.com.
+
